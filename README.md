@@ -1,7 +1,5 @@
 # Instagram Stories - React Native
 
-![alt text](https://i.imgur.com/EwT3W3e.png)
-
 ## Description
 
 ## Installation
