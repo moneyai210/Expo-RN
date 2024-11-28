@@ -1,7 +1,5 @@
 # Instagram Stories - React Native
 
-Find the twitter post with a demo video [here](https://twitter.com/georgealexiou_/status/1641138484235599893?s=20)!
-
 ![alt text](https://i.imgur.com/EwT3W3e.png)
 
 ## Description
